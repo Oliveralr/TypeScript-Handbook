@@ -1,4 +1,4 @@
-# TypeScript-Handbook
+# TypeScript-Handbook :godmode:
 
 [![Build Status](https://travis-ci.org/Microsoft/TypeScript-Handbook.svg)](https://travis-ci.org/Microsoft/TypeScript-Handbook)
 
