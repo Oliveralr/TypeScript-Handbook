@@ -7,4 +7,4 @@ It is meant to be read online at [the TypeScript website](https://www.typescript
 
 For a more formal description of the language, see the [Latest TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md).
 
-### Forked!:octocat:
+### Forked!:octocat::rage3:
